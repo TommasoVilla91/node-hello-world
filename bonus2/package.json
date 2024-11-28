@@ -1,0 +1,12 @@
+{
+  "name": "bonus2",
+  "version": "1.0.0",
+  "main": "bonus-due.js",
+  "scripts": {
+    "start": "node bonus-due.js",
+    "dev": "node --watch bonus-due.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
