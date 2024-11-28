@@ -1,0 +1,12 @@
+{
+  "name": "bonus1",
+  "version": "1.0.0",
+  "main": "bonus-uno.js",
+  "scripts": {
+    "start": "node bonus-uno.js",
+    "dev": "node --watch bonus-uno.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
